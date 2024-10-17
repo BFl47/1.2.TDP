@@ -15,4 +15,3 @@ Il corso fa riferimento ad una caratterizzazione dell'architettura dell'elaborat
 - Sapienza Università di Roma
 - Facoltà di Ingegneria dell'Informazione, Informatica e Statistica
 - Laurea Triennale in Ingegneria Informatica e Automatica
-- 
