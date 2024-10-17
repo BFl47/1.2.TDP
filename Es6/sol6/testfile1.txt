@@ -1,0 +1,6 @@
+Questo file e' ascii!
+Fare attenzione con i caratteri accentati.
+Questa e' la terza linea di test.
+Quanti caratteri massimi?
+Ogni riga al massimo 80.
+
